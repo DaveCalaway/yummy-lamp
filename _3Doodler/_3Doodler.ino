@@ -19,6 +19,7 @@ void setup() {
   pinMode(slow, OUTPUT);
   pinMode(fast, OUTPUT);
   Serial.begin(9600);
+  Serial.print("0 = STOP -- 1 = SLOW -- 2 = FAST -- 3 = Reverse /n");
 }
 
 void loop() {
