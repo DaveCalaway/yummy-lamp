@@ -7,6 +7,6 @@ The circuit used 2 PNP Transitor.
 The project contain the Fritzing schematic.
 Tutorial: http://goo.gl/dxflD7
 
-**Beta version 0.01**
+**Beta version 0.10**
 
 *DaveCalaway*
