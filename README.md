@@ -5,7 +5,7 @@ Control 3Doobler with Arduino serial pins.
 The circuit used 2 PNP Transitor.
 
 The project contain the Fritzing schematic.
-Tutorial: http://goo.gl/dxflD7
+Tutorial: http://goo.gl/IThmCg
 
 **Beta version 0.20**
 
